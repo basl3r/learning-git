@@ -1,0 +1,2 @@
+html-validate --formatter stylish, checkstyle index.html
+html-validate --max-warnings 0 index.html
